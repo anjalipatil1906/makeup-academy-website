@@ -2228,3 +2228,9 @@ section {
   color: #fff;
   text-decoration: none;
 }
+/* Make all images scale properly on mobile */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
